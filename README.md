@@ -1,2 +1,2 @@
 # hello-world
-160507
+print'hello world'
